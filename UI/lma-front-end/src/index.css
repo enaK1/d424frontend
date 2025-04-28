@@ -1,0 +1,25 @@
+/* Global styles */
+body {
+  margin: 0;
+  font-family: 'Arial', sans-serif;
+  background-color: #f4f4f4; /* Light gray background */
+  color: #333; /* Dark gray text */
+}
+
+/* Page container */
+.page {
+  padding: 2rem;
+  max-width: 1200px;
+  margin: 0 auto; /* Center the content */
+}
+
+/* Headings */
+h1 {
+  color: #2c3e50; /* Dark blue heading */
+  margin-bottom: 1rem;
+}
+
+/* Paragraphs */
+p {
+  line-height: 1.6;
+}
